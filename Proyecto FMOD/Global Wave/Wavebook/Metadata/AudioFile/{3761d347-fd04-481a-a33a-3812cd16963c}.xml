@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{3761d347-fd04-481a-a33a-3812cd16963c}">
+        <property name="assetPath">
+            <value>CROWD.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>12.93375</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dce78367-a8e3-4d28-9d08-34a3fb301238}</destination>
+        </relationship>
+    </object>
+</objects>

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4cdd552d0421648b788cbafb97c69959
+timeCreated: 1485011795
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Paper Cuts 2
+  fontNames:
+  - Paper Cuts 2
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{fa42d78d-051f-4e39-92ba-fcf60848e031}">
+        <property name="assetPath">
+            <value>HEY HHEE.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>0.51086167800453519</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dce78367-a8e3-4d28-9d08-34a3fb301238}</destination>
+        </relationship>
+    </object>
+</objects>

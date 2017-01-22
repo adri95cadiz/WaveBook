@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.08.00">
+    <object class="AudioFile" id="{a3b4885a-911e-4391-96d1-2217eb32d574}">
+        <property name="assetPath">
+            <value>LAUGH 1.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>1.706689342403628</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dce78367-a8e3-4d28-9d08-34a3fb301238}</destination>
+        </relationship>
+    </object>
+</objects>
