@@ -2,6 +2,17 @@
 Juego Desarrollado para Android y Windows en Unity.
 En él eres un chico solitario en busca de amigos, y para ello te conectas a la red social WaveBook, donde quedas con 3 usuarios para conoceros, sólo hay un problema: solamente tienes una foto de cada uno. Así que cuando te saluden salúdales de vuelta (pulsando espacio) y no te equivoques, o pasarás la vergüenza de tu vida. 
 
+Fue desarrollado por:
+  - Como Programadores:
+    - Adrián Portillo Sánchez.
+    - Alejandro Molina.
+    - Valerio Sevilla.
+  - Como Artistas:
+    - Beatriz I. Bustamante.
+    - Jesús Rodríguez de Guzmán.
+  - Como Músico:
+    - Elior Dumont.
+
 A continuación veremos algunas capturas del juego:
   
   - Al principio nos aparecerán 3 personajes, los que tendremos que recordar, ya que estos son nuestros amigos, una vez los recordemos,         podremos empezar a jugar:  
