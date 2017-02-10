@@ -6,31 +6,31 @@ A continuación veremos algunas capturas del juego:
   
   - Al principio nos aparecerán 3 personajes, los que tendremos que recordar, ya que estos son nuestros amigos, una vez los recordemos,         podremos empezar a jugar:  
   
-  ![mainmenu](WaveBook/Capturas/menu.jpg)
+  ![mainmenu](Capturas/menu.jpg)
   
   - Una vez dentro del juego, veremos como distintos personajes van apareciendo por la pantalla, algunos de ellos serán nuestros amigos.       Cuando un personaje se pare a saludar, podemos saludar de vuelta (pulsando espacio) y si es nuestro amigo acertaremos y ese quedará         saludado, mientras que si no perderemos y nunca más haremos amigos:  
   
-  ![juego](WaveBook/Capturas/juego.jpg)
+  ![juego](Capturas/juego.jpg)
   
   - Para saber si hemos acertado o fallado, tendremos que esperar a que nuestro personaje recapacite y vea si nadie más saluda, entonces si     hemos acertado veremos al personaje así:  
   
-  ![acertar](WaveBook/Capturas/acertar.png)
+  ![acertar](Capturas/acertar.png)
   
   - Y si hemos fallado así:  
   
-  ![fallar](WaveBook/Capturas/fallar.png)
+  ![fallar](Capturas/fallar.png)
   
   - Cuando ganamos veremos la siguiente pantalla:
     
-  ![victoria](WaveBook/Capturas/victoria.png)
+  ![victoria](Capturas/victoria.png)
   
   - Y si perdemos:    
   
-  ![derrota](WaveBook/Capturas/derrota.png)
+  ![derrota](Capturas/derrota.png)
   
   Por último, esta es la pantalla de créditos: 
   
-  ![creditos](WaveBook/Capturas/creditos.png)
+  ![creditos](Capturas/creditos.png)
   
   
   
